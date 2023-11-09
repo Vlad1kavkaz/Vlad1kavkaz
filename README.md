@@ -4,6 +4,9 @@
 </div>
 <img align="center" src="https://komarev.com/ghpvc/?username=Vlad1kavkaz&style=flat-square&color=blue" alt=""/>
 
+[![GitHub Contributor](https://img.shields.io/badge/GitHub-Contributor-green)](https://github.com/Vlad1kavkaz)
+
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -44,10 +47,5 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlad1kavkaz&theme=dark&hide=javascript,html,css)
 
 
----
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
 
